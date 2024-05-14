@@ -10,4 +10,4 @@ class Greeting (Resource):
         return "Joker working 😁"
 
 api.add_resource(Greeting, '/')
-app.run(host="0.0.0.0", port=os.environ.get("PORT", 8844))
+app.run(host="0.0.0.0", port=os.environ.get("PORT", 10000))
