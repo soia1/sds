@@ -1,0 +1,27 @@
+{
+    "name": "حسـ313ـو",
+    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس الجوكر",
+    "logo": "",
+    "stack": "container",
+    "repository": "https://t.me/jepthon",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/jepthon",
+    "env": {
+        "SESSION": {
+            "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
+            "value": "1BJWap1sBuyPszxoq76XTUVhbnGc0MtdL16IGuxfscciym9DcHc44jgPECFQwyYrv3NczHx22cGFSTwD-dKh29UU4_rpFSK9Hb9pY-dhVTsfec3hAeXPBHURSGcUY-iGgDTip2VWlA9RvXgA5-TWbkEGkkLcNTbaMvV57-jP4kogH8k1fijH-fsG4io3UmXgPno153Wl8tJysheoIJck5jej9Jl9MPffLOwo_hdgjdNM_1szr9-y-kLjfNXkskTorb86CCdc3uCnAofwTqMxWkaVfxF-__J7V5IOLTItJrc44HEKXm7FEuhK1jdpODl8ATrwPQjhcOD0FAtN_vQ-xPKUwIokcnKA=",
+            "required": true
+        },
+        "APP_ID": {
+            "description": "ضع ابب ايدي المكون من 6 ارقام",
+            "value": "25971977",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ضع ابب هاش المكون من ارقام وحروف",
+            "value": "10041628a847c909b20400706c00ae36",
+            "required": true
+        }
+    },
+    "automatic_deploy": false
+}
