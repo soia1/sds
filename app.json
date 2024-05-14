@@ -9,17 +9,17 @@
     "env": {
         "SESSION": {
             "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
-            "value": "1BJWap1sBuyPszxoq76XTUVhbnGc0MtdL16IGuxfscciym9DcHc44jgPECFQwyYrv3NczHx22cGFSTwD-dKh29UU4_rpFSK9Hb9pY-dhVTsfec3hAeXPBHURSGcUY-iGgDTip2VWlA9RvXgA5-TWbkEGkkLcNTbaMvV57-jP4kogH8k1fijH-fsG4io3UmXgPno153Wl8tJysheoIJck5jej9Jl9MPffLOwo_hdgjdNM_1szr9-y-kLjfNXkskTorb86CCdc3uCnAofwTqMxWkaVfxF-__J7V5IOLTItJrc44HEKXm7FEuhK1jdpODl8ATrwPQjhcOD0FAtN_vQ-xPKUwIokcnKA=",
+            "value": "1BJWap1wBu2Ngcmq0incJAlMqSSdam1JoNEvD-eAt_b9vz2brJzgh5q6Wgf_NGYdcv9Ju6q2ELKUCC_UnErrdpEhmZlzAGPss6OaIFFLiCY0IRffN_c7soZ1K9_4yQOCRwBgewWwd-wKWHvAY6tGp5IQnLlKro3LI1pJy3GnDVd7vPZlpTrU8bUqNgxyP8Z7GB66KbonNMJDGurVwCSVP7EK-hQzECVEnLQO4ZmOdEDHbs-tx2HB_5DgzjkflxGAvYhGQleeFm5K1l2wXA3oZtTavN1z3kp4YcNMwOvSVOcHwoCVXzgHKt0fI1P1OgdmVb1wlsxB-ijYFHjDtEOWB8F4KJ7rPjFQ=",
             "required": true
         },
         "APP_ID": {
             "description": "ضع ابب ايدي المكون من 6 ارقام",
-            "value": "25971977",
+            "value": "21330757",
             "required": true
         },
         "APP_HASH": {
             "description": "ضع ابب هاش المكون من ارقام وحروف",
-            "value": "10041628a847c909b20400706c00ae36",
+            "value": "5e94b26b340f50fb1d1ee0e42df72124",
             "required": true
         }
     },
